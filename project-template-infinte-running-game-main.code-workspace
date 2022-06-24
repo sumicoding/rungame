@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\my own infinite game characcters"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "project-template-infinte-running-game-main"
+	}
+}
